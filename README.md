@@ -4,7 +4,6 @@ Analysis of Pakistan Men's Cricket Team T20i performance (2021–2024) using K-M
 # Pakistan Cricket T20i Performance Analysis (2021–2024)
 
 A data analysis project exploring the performance of the Pakistan Men's Cricket team in T20 International (T20i) matches from 2021 to 2024.
-nd
 ---
 
 ## Project Overview
